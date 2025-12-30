@@ -2,7 +2,8 @@
   <img src="/icon/icon.png" alt="Karbon Editor" width="90" height="90"/>
 </p>
 
-<h2 align="center"><b>Xed-Editor</b></h2>
+<h2 align="center"><b>Ubuntu Terminal</b></h2>
+<p align="center">This app is modified version of Xed-editor added few things to look cool like app icon , name , fonts<p>
 
 <div align="center">
 
