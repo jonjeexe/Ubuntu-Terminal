@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/icon/icon.png" alt="Karbon Editor" width="90" height="90"/>
+  <img width="96" height="96" alt="Image" src="https://github.com/user-attachments/assets/41634dcc-56f4-4239-b423-6b0810b1baaa" />
 </p>
 
 <h2 align="center"><b>Ubuntu Terminal</b></h2>
