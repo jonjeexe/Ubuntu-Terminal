@@ -17,7 +17,7 @@
 
 ## Download
 
-- [Download app form release](https://github.com/jonjeexe/Ubuntu-Terminal/releases/download/v1.0/Ubuntu-Termina-release.apk)
+[Download app form release](https://github.com/jonjeexe/Ubuntu-Terminal/releases/download/v1.0/Ubuntu-Termina-release.apk)
 
 
 <br>
