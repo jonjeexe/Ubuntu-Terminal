@@ -17,20 +17,7 @@
 
 ## Download
 
-[Download app form release](https://github.com/jonjeexe/Ubuntu-Terminal/releases/download/v1.0/Ubuntu-Termina-release.apk)
+[Download app form release](https://github.com/jonjeexe/Ubuntu-Terminal/releases/download/v1.0/Ubuntu-Terminal-release.apk)
 
 
 <br>
-
-## Screenshots
-
-<div>
-  <img src="/Screenshots/01.jpg" width="32%" />
-  <img src="/Screenshots/02.jpg" width="32%" />
-  <img src="/Screenshots/03.jpg" width="32%" />
-</div>
-<div>
-  <img src="/Screenshots/04.jpg" width="32%" />
-  <img src="/Screenshots/05.jpg" width="32%" />
-  <img src="/Screenshots/06.jpg" width="32%" />
-</div>
